@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charanjeev-2k2
+- 👋 Hi, I’m Charanjeev Kaur
 - 👀 I love exploring new technologies
 - 🌱 I’m currently learning new technologies for Machine Learning and Data Science
 - 💞️ I’m looking to collaborate on ML projects
