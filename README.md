@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
 <!---<img src="https://user-images.githubusercontent.com/69391607/145779625-a63f79ff-6c43-407a-b19c-65572a89c86a.png" width=50% height=50%>--->
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanjeev-2k2)--->
 
-![Charanjeev's github stats](https://github-readme-stats.vercel.app/api?username=charanjeev-2k2&count_private=true&show_icons=true&hide_rank=false)
+<!---![Charanjeev's github stats](https://github-readme-stats.vercel.app/api?username=charanjeev-2k2&count_private=true&show_icons=true&hide_rank=false)--->
 
